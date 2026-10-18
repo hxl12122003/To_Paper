@@ -1,0 +1,65 @@
+1. perovskite nanocrystals
+
+lead halide perovskites
+
+metal halide perovskite
+
+2. quantum dots
+
+3. organic dye
+
+molecular acceptor
+
+photosensitizers
+
+4. 
+BODIPY dyes
+
+BODIPY derivatives
+
+
+5. 
+ligand exchange
+
+ligand engineering
+
+6. 
+transient absorption spectroscopy
+
+pump-probe
+
+time-resolved absorption spectroscopy
+
+7. 
+hole transfer
+
+8. 
+electron transfer
+
+charge transfer
+
+9. 
+charge separation
+
+10.
+triplet state
+
+11.
+singlet oxygen
+
+12. FRET
+
+Förster resonance energy transfer
+
+
+13. 
+triplet energy transfer
+
+Dexter energy transfer
+
+14. 
+molecular conformational change
+
+donor-acceptor structure
+
+15.spin flip

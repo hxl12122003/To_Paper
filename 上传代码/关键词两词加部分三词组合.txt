@@ -1,0 +1,494 @@
+perovskite nanocrystals, lead halide perovskites
+perovskite nanocrystals, metal halide perovskite
+perovskite nanocrystals, quantum dots
+perovskite nanocrystals, organic dye
+perovskite nanocrystals, molecular acceptor
+perovskite nanocrystals, photosensitizers
+perovskite nanocrystals, BODIPY dyes
+perovskite nanocrystals, BODIPY derivatives
+perovskite nanocrystals, ligand exchange
+perovskite nanocrystals, ligand engineering
+perovskite nanocrystals, transient absorption spectroscopy
+perovskite nanocrystals, pump-probe
+perovskite nanocrystals, time-resolved absorption spectroscopy
+perovskite nanocrystals, hole transfer
+perovskite nanocrystals, electron transfer
+perovskite nanocrystals, charge transfer
+perovskite nanocrystals, charge separation
+perovskite nanocrystals, triplet state
+perovskite nanocrystals, singlet oxygen
+perovskite nanocrystals, FRET
+perovskite nanocrystals, Förster resonance energy transfer
+perovskite nanocrystals, triplet energy transfer
+perovskite nanocrystals, Dexter energy transfer
+perovskite nanocrystals, molecular conformational change
+perovskite nanocrystals, donor-acceptor structure
+perovskite nanocrystals, spin flip
+lead halide perovskites, metal halide perovskite
+lead halide perovskites, quantum dots
+lead halide perovskites, organic dye
+lead halide perovskites, molecular acceptor
+lead halide perovskites, photosensitizers
+lead halide perovskites, BODIPY dyes
+lead halide perovskites, BODIPY derivatives
+lead halide perovskites, ligand exchange
+lead halide perovskites, ligand engineering
+lead halide perovskites, transient absorption spectroscopy
+lead halide perovskites, pump-probe
+lead halide perovskites, time-resolved absorption spectroscopy
+lead halide perovskites, hole transfer
+lead halide perovskites, electron transfer
+lead halide perovskites, charge transfer
+lead halide perovskites, charge separation
+lead halide perovskites, triplet state
+lead halide perovskites, singlet oxygen
+lead halide perovskites, FRET
+lead halide perovskites, Förster resonance energy transfer
+lead halide perovskites, triplet energy transfer
+lead halide perovskites, Dexter energy transfer
+lead halide perovskites, molecular conformational change
+lead halide perovskites, donor-acceptor structure
+lead halide perovskites, spin flip
+metal halide perovskite, quantum dots
+metal halide perovskite, organic dye
+metal halide perovskite, molecular acceptor
+metal halide perovskite, photosensitizers
+metal halide perovskite, BODIPY dyes
+metal halide perovskite, BODIPY derivatives
+metal halide perovskite, ligand exchange
+metal halide perovskite, ligand engineering
+metal halide perovskite, transient absorption spectroscopy
+metal halide perovskite, pump-probe
+metal halide perovskite, time-resolved absorption spectroscopy
+metal halide perovskite, hole transfer
+metal halide perovskite, electron transfer
+metal halide perovskite, charge transfer
+metal halide perovskite, charge separation
+metal halide perovskite, triplet state
+metal halide perovskite, singlet oxygen
+metal halide perovskite, FRET
+metal halide perovskite, Förster resonance energy transfer
+metal halide perovskite, triplet energy transfer
+metal halide perovskite, Dexter energy transfer
+metal halide perovskite, molecular conformational change
+metal halide perovskite, donor-acceptor structure
+metal halide perovskite, spin flip
+quantum dots, organic dye
+quantum dots, molecular acceptor
+quantum dots, photosensitizers
+quantum dots, BODIPY dyes
+quantum dots, BODIPY derivatives
+quantum dots, ligand exchange
+quantum dots, ligand engineering
+quantum dots, transient absorption spectroscopy
+quantum dots, pump-probe
+quantum dots, time-resolved absorption spectroscopy
+quantum dots, hole transfer
+quantum dots, electron transfer
+quantum dots, charge transfer
+quantum dots, charge separation
+quantum dots, triplet state
+quantum dots, singlet oxygen
+quantum dots, FRET
+quantum dots, Förster resonance energy transfer
+quantum dots, triplet energy transfer
+quantum dots, Dexter energy transfer
+quantum dots, molecular conformational change
+quantum dots, donor-acceptor structure
+quantum dots, spin flip
+organic dye, molecular acceptor
+organic dye, photosensitizers
+organic dye, BODIPY dyes
+organic dye, BODIPY derivatives
+organic dye, ligand exchange
+organic dye, ligand engineering
+organic dye, transient absorption spectroscopy
+organic dye, pump-probe
+organic dye, time-resolved absorption spectroscopy
+organic dye, hole transfer
+organic dye, electron transfer
+organic dye, charge transfer
+organic dye, charge separation
+organic dye, triplet state
+organic dye, singlet oxygen
+organic dye, FRET
+organic dye, Förster resonance energy transfer
+organic dye, triplet energy transfer
+organic dye, Dexter energy transfer
+organic dye, molecular conformational change
+organic dye, donor-acceptor structure
+organic dye, spin flip
+molecular acceptor, photosensitizers
+molecular acceptor, BODIPY dyes
+molecular acceptor, BODIPY derivatives
+molecular acceptor, ligand exchange
+molecular acceptor, ligand engineering
+molecular acceptor, transient absorption spectroscopy
+molecular acceptor, pump-probe
+molecular acceptor, time-resolved absorption spectroscopy
+molecular acceptor, hole transfer
+molecular acceptor, electron transfer
+molecular acceptor, charge transfer
+molecular acceptor, charge separation
+molecular acceptor, triplet state
+molecular acceptor, singlet oxygen
+molecular acceptor, FRET
+molecular acceptor, Förster resonance energy transfer
+molecular acceptor, triplet energy transfer
+molecular acceptor, Dexter energy transfer
+molecular acceptor, molecular conformational change
+molecular acceptor, donor-acceptor structure
+molecular acceptor, spin flip
+photosensitizers, BODIPY dyes
+photosensitizers, BODIPY derivatives
+photosensitizers, ligand exchange
+photosensitizers, ligand engineering
+photosensitizers, transient absorption spectroscopy
+photosensitizers, pump-probe
+photosensitizers, time-resolved absorption spectroscopy
+photosensitizers, hole transfer
+photosensitizers, electron transfer
+photosensitizers, charge transfer
+photosensitizers, charge separation
+photosensitizers, triplet state
+photosensitizers, singlet oxygen
+photosensitizers, FRET
+photosensitizers, Förster resonance energy transfer
+photosensitizers, triplet energy transfer
+photosensitizers, Dexter energy transfer
+photosensitizers, molecular conformational change
+photosensitizers, donor-acceptor structure
+photosensitizers, spin flip
+BODIPY dyes, BODIPY derivatives
+BODIPY dyes, ligand exchange
+BODIPY dyes, ligand engineering
+BODIPY dyes, transient absorption spectroscopy
+BODIPY dyes, pump-probe
+BODIPY dyes, time-resolved absorption spectroscopy
+BODIPY dyes, hole transfer
+BODIPY dyes, electron transfer
+BODIPY dyes, charge transfer
+BODIPY dyes, charge separation
+BODIPY dyes, triplet state
+BODIPY dyes, singlet oxygen
+BODIPY dyes, FRET
+BODIPY dyes, Förster resonance energy transfer
+BODIPY dyes, triplet energy transfer
+BODIPY dyes, Dexter energy transfer
+BODIPY dyes, molecular conformational change
+BODIPY dyes, donor-acceptor structure
+BODIPY dyes, spin flip
+BODIPY derivatives, ligand exchange
+BODIPY derivatives, ligand engineering
+BODIPY derivatives, transient absorption spectroscopy
+BODIPY derivatives, pump-probe
+BODIPY derivatives, time-resolved absorption spectroscopy
+BODIPY derivatives, hole transfer
+BODIPY derivatives, electron transfer
+BODIPY derivatives, charge transfer
+BODIPY derivatives, charge separation
+BODIPY derivatives, triplet state
+BODIPY derivatives, singlet oxygen
+BODIPY derivatives, FRET
+BODIPY derivatives, Förster resonance energy transfer
+BODIPY derivatives, triplet energy transfer
+BODIPY derivatives, Dexter energy transfer
+BODIPY derivatives, molecular conformational change
+BODIPY derivatives, donor-acceptor structure
+BODIPY derivatives, spin flip
+ligand exchange, ligand engineering
+ligand exchange, transient absorption spectroscopy
+ligand exchange, pump-probe
+ligand exchange, time-resolved absorption spectroscopy
+ligand exchange, hole transfer
+ligand exchange, electron transfer
+ligand exchange, charge transfer
+ligand exchange, charge separation
+ligand exchange, triplet state
+ligand exchange, singlet oxygen
+ligand exchange, FRET
+ligand exchange, Förster resonance energy transfer
+ligand exchange, triplet energy transfer
+ligand exchange, Dexter energy transfer
+ligand exchange, molecular conformational change
+ligand exchange, donor-acceptor structure
+ligand exchange, spin flip
+ligand engineering, transient absorption spectroscopy
+ligand engineering, pump-probe
+ligand engineering, time-resolved absorption spectroscopy
+ligand engineering, hole transfer
+ligand engineering, electron transfer
+ligand engineering, charge transfer
+ligand engineering, charge separation
+ligand engineering, triplet state
+ligand engineering, singlet oxygen
+ligand engineering, FRET
+ligand engineering, Förster resonance energy transfer
+ligand engineering, triplet energy transfer
+ligand engineering, Dexter energy transfer
+ligand engineering, molecular conformational change
+ligand engineering, donor-acceptor structure
+ligand engineering, spin flip
+transient absorption spectroscopy, pump-probe
+transient absorption spectroscopy, time-resolved absorption spectroscopy
+transient absorption spectroscopy, hole transfer
+transient absorption spectroscopy, electron transfer
+transient absorption spectroscopy, charge transfer
+transient absorption spectroscopy, charge separation
+transient absorption spectroscopy, triplet state
+transient absorption spectroscopy, singlet oxygen
+transient absorption spectroscopy, FRET
+transient absorption spectroscopy, Förster resonance energy transfer
+transient absorption spectroscopy, triplet energy transfer
+transient absorption spectroscopy, Dexter energy transfer
+transient absorption spectroscopy, molecular conformational change
+transient absorption spectroscopy, donor-acceptor structure
+transient absorption spectroscopy, spin flip
+pump-probe, time-resolved absorption spectroscopy
+pump-probe, hole transfer
+pump-probe, electron transfer
+pump-probe, charge transfer
+pump-probe, charge separation
+pump-probe, triplet state
+pump-probe, singlet oxygen
+pump-probe, FRET
+pump-probe, Förster resonance energy transfer
+pump-probe, triplet energy transfer
+pump-probe, Dexter energy transfer
+pump-probe, molecular conformational change
+pump-probe, donor-acceptor structure
+pump-probe, spin flip
+time-resolved absorption spectroscopy, hole transfer
+time-resolved absorption spectroscopy, electron transfer
+time-resolved absorption spectroscopy, charge transfer
+time-resolved absorption spectroscopy, charge separation
+time-resolved absorption spectroscopy, triplet state
+time-resolved absorption spectroscopy, singlet oxygen
+time-resolved absorption spectroscopy, FRET
+time-resolved absorption spectroscopy, Förster resonance energy transfer
+time-resolved absorption spectroscopy, triplet energy transfer
+time-resolved absorption spectroscopy, Dexter energy transfer
+time-resolved absorption spectroscopy, molecular conformational change
+time-resolved absorption spectroscopy, donor-acceptor structure
+time-resolved absorption spectroscopy, spin flip
+hole transfer, electron transfer
+hole transfer, charge transfer
+hole transfer, charge separation
+hole transfer, triplet state
+hole transfer, singlet oxygen
+hole transfer, FRET
+hole transfer, Förster resonance energy transfer
+hole transfer, triplet energy transfer
+hole transfer, Dexter energy transfer
+hole transfer, molecular conformational change
+hole transfer, donor-acceptor structure
+hole transfer, spin flip
+electron transfer, charge transfer
+electron transfer, charge separation
+electron transfer, triplet state
+electron transfer, singlet oxygen
+electron transfer, FRET
+electron transfer, Förster resonance energy transfer
+electron transfer, triplet energy transfer
+electron transfer, Dexter energy transfer
+electron transfer, molecular conformational change
+electron transfer, donor-acceptor structure
+electron transfer, spin flip
+charge transfer, charge separation
+charge transfer, triplet state
+charge transfer, singlet oxygen
+charge transfer, FRET
+charge transfer, Förster resonance energy transfer
+charge transfer, triplet energy transfer
+charge transfer, Dexter energy transfer
+charge transfer, molecular conformational change
+charge transfer, donor-acceptor structure
+charge transfer, spin flip
+charge separation, triplet state
+charge separation, singlet oxygen
+charge separation, FRET
+charge separation, Förster resonance energy transfer
+charge separation, triplet energy transfer
+charge separation, Dexter energy transfer
+charge separation, molecular conformational change
+charge separation, donor-acceptor structure
+charge separation, spin flip
+triplet state, singlet oxygen
+triplet state, FRET
+triplet state, Förster resonance energy transfer
+triplet state, triplet energy transfer
+triplet state, Dexter energy transfer
+triplet state, molecular conformational change
+triplet state, donor-acceptor structure
+triplet state, spin flip
+singlet oxygen, FRET
+singlet oxygen, Förster resonance energy transfer
+singlet oxygen, triplet energy transfer
+singlet oxygen, Dexter energy transfer
+singlet oxygen, molecular conformational change
+singlet oxygen, donor-acceptor structure
+singlet oxygen, spin flip
+FRET, Förster resonance energy transfer
+FRET, triplet energy transfer
+FRET, Dexter energy transfer
+FRET, molecular conformational change
+FRET, donor-acceptor structure
+FRET, spin flip
+Förster resonance energy transfer, triplet energy transfer
+Förster resonance energy transfer, Dexter energy transfer
+Förster resonance energy transfer, molecular conformational change
+Förster resonance energy transfer, donor-acceptor structure
+Förster resonance energy transfer, spin flip
+triplet energy transfer, Dexter energy transfer
+triplet energy transfer, molecular conformational change
+triplet energy transfer, donor-acceptor structure
+triplet energy transfer, spin flip
+Dexter energy transfer, molecular conformational change
+Dexter energy transfer, donor-acceptor structure
+Dexter energy transfer, spin flip
+molecular conformational change, donor-acceptor structure
+molecular conformational change, spin flip
+donor-acceptor structure, spin flip
+BODIPY dyes, perovskite nanocrystals
+BODIPY dyes, quantum dots
+BODIPY dyes, ligand exchange
+BODIPY dyes, transient absorption spectroscopy
+BODIPY dyes, hole transfer
+BODIPY dyes, electron transfer
+BODIPY dyes, triplet state
+BODIPY dyes, FRET
+BODIPY dyes, triplet energy transfer
+BODIPY dyes, molecular conformational change
+BODIPY dyes, spin flip
+perovskite nanocrystals, hole transfer, electron transfer
+perovskite nanocrystals, hole transfer, triplet state
+perovskite nanocrystals, hole transfer, FRET
+perovskite nanocrystals, hole transfer, triplet energy transfer
+perovskite nanocrystals, hole transfer, molecular conformational change
+perovskite nanocrystals, hole transfer, spin flip
+perovskite nanocrystals, electron transfer, triplet state
+perovskite nanocrystals, electron transfer, FRET
+perovskite nanocrystals, electron transfer, triplet energy transfer
+perovskite nanocrystals, electron transfer, molecular conformational change
+perovskite nanocrystals, electron transfer, spin flip
+perovskite nanocrystals, triplet state, FRET
+perovskite nanocrystals, triplet state, triplet energy transfer
+perovskite nanocrystals, triplet state, molecular conformational change
+perovskite nanocrystals, triplet state, spin flip
+perovskite nanocrystals, FRET, triplet energy transfer
+perovskite nanocrystals, FRET, molecular conformational change
+perovskite nanocrystals, FRET, spin flip
+perovskite nanocrystals, triplet energy transfer, molecular conformational change
+perovskite nanocrystals, triplet energy transfer, spin flip
+perovskite nanocrystals, molecular conformational change, spin flip
+quantum dots, hole transfer, electron transfer
+quantum dots, hole transfer, triplet state
+quantum dots, hole transfer, FRET
+quantum dots, hole transfer, triplet energy transfer
+quantum dots, hole transfer, molecular conformational change
+quantum dots, hole transfer, spin flip
+quantum dots, electron transfer, triplet state
+quantum dots, electron transfer, FRET
+quantum dots, electron transfer, triplet energy transfer
+quantum dots, electron transfer, molecular conformational change
+quantum dots, electron transfer, spin flip
+quantum dots, triplet state, FRET
+quantum dots, triplet state, triplet energy transfer
+quantum dots, triplet state, molecular conformational change
+quantum dots, triplet state, spin flip
+quantum dots, FRET, triplet energy transfer
+quantum dots, FRET, molecular conformational change
+quantum dots, FRET, spin flip
+quantum dots, triplet energy transfer, molecular conformational change
+quantum dots, triplet energy transfer, spin flip
+quantum dots, molecular conformational change, spin flip
+organic dye, hole transfer, electron transfer
+organic dye, hole transfer, triplet state
+organic dye, hole transfer, FRET
+organic dye, hole transfer, triplet energy transfer
+organic dye, hole transfer, molecular conformational change
+organic dye, hole transfer, spin flip
+organic dye, electron transfer, triplet state
+organic dye, electron transfer, FRET
+organic dye, electron transfer, triplet energy transfer
+organic dye, electron transfer, molecular conformational change
+organic dye, electron transfer, spin flip
+organic dye, triplet state, FRET
+organic dye, triplet state, triplet energy transfer
+organic dye, triplet state, molecular conformational change
+organic dye, triplet state, spin flip
+organic dye, FRET, triplet energy transfer
+organic dye, FRET, molecular conformational change
+organic dye, FRET, spin flip
+organic dye, triplet energy transfer, molecular conformational change
+organic dye, triplet energy transfer, spin flip
+organic dye, molecular conformational change, spin flip
+perovskite nanocrystals, ligand exchange, hole transfer
+perovskite nanocrystals, ligand exchange, electron transfer
+perovskite nanocrystals, ligand exchange, triplet state
+perovskite nanocrystals, ligand exchange, FRET
+perovskite nanocrystals, ligand exchange, triplet energy transfer
+perovskite nanocrystals, ligand exchange, molecular conformational change
+perovskite nanocrystals, ligand exchange, spin flip
+perovskite nanocrystals, transient absorption spectroscopy, hole transfer
+perovskite nanocrystals, transient absorption spectroscopy, electron transfer
+perovskite nanocrystals, transient absorption spectroscopy, triplet state
+perovskite nanocrystals, transient absorption spectroscopy, FRET
+perovskite nanocrystals, transient absorption spectroscopy, triplet energy transfer
+perovskite nanocrystals, transient absorption spectroscopy, molecular conformational change
+perovskite nanocrystals, transient absorption spectroscopy, spin flip
+quantum dots, ligand exchange, hole transfer
+quantum dots, ligand exchange, electron transfer
+quantum dots, ligand exchange, triplet state
+quantum dots, ligand exchange, FRET
+quantum dots, ligand exchange, triplet energy transfer
+quantum dots, ligand exchange, molecular conformational change
+quantum dots, ligand exchange, spin flip
+quantum dots, transient absorption spectroscopy, hole transfer
+quantum dots, transient absorption spectroscopy, electron transfer
+quantum dots, transient absorption spectroscopy, triplet state
+quantum dots, transient absorption spectroscopy, FRET
+quantum dots, transient absorption spectroscopy, triplet energy transfer
+quantum dots, transient absorption spectroscopy, molecular conformational change
+quantum dots, transient absorption spectroscopy, spin flip
+organic dye, ligand exchange, hole transfer
+organic dye, ligand exchange, electron transfer
+organic dye, ligand exchange, triplet state
+organic dye, ligand exchange, FRET
+organic dye, ligand exchange, triplet energy transfer
+organic dye, ligand exchange, molecular conformational change
+organic dye, ligand exchange, spin flip
+organic dye, transient absorption spectroscopy, hole transfer
+organic dye, transient absorption spectroscopy, electron transfer
+organic dye, transient absorption spectroscopy, triplet state
+organic dye, transient absorption spectroscopy, FRET
+organic dye, transient absorption spectroscopy, triplet energy transfer
+organic dye, transient absorption spectroscopy, molecular conformational change
+organic dye, transient absorption spectroscopy, spin flip
+perovskite nanocrystals, quantum dots, hole transfer
+perovskite nanocrystals, quantum dots, electron transfer
+perovskite nanocrystals, quantum dots, triplet state
+perovskite nanocrystals, quantum dots, FRET
+perovskite nanocrystals, quantum dots, triplet energy transfer
+perovskite nanocrystals, quantum dots, molecular conformational change
+perovskite nanocrystals, quantum dots, spin flip
+perovskite nanocrystals, organic dye, hole transfer
+perovskite nanocrystals, organic dye, electron transfer
+perovskite nanocrystals, organic dye, triplet state
+perovskite nanocrystals, organic dye, FRET
+perovskite nanocrystals, organic dye, triplet energy transfer
+perovskite nanocrystals, organic dye, molecular conformational change
+perovskite nanocrystals, organic dye, spin flip
+quantum dots, organic dye, hole transfer
+quantum dots, organic dye, electron transfer
+quantum dots, organic dye, triplet state
+quantum dots, organic dye, FRET
+quantum dots, organic dye, triplet energy transfer
+quantum dots, organic dye, molecular conformational change
+quantum dots, organic dye, spin flip
+perovskite nanocrystals, quantum dots, ligand exchange
+perovskite nanocrystals, quantum dots, transient absorption spectroscopy
+perovskite nanocrystals, organic dye, ligand exchange
+perovskite nanocrystals, organic dye, transient absorption spectroscopy
+quantum dots, organic dye, ligand exchange
+quantum dots, organic dye, transient absorption spectroscopy
