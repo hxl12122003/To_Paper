@@ -7,9 +7,8 @@ To Paper is an end-to-end AI system designed for academic research. It bridges t
 
 ## 📥 Download & Installation
 The standalone executable software (Windows) is available for download via Baidu Netdisk:
-- **Download Link**: 通过网盘分享的文件：ToPaper软件
-链接: https://pan.baidu.com/s/1GbNE3JV3hg8NjNN4svqvwQ?pwd=TOPP 提取码: TOPP 
---来自百度网盘超级会员v4的分享
+- **Download Link**:
+- https://pan.baidu.com/s/1GbNE3JV3hg8NjNN4svqvwQ?pwd=TOPP
 - **提取码 (Password)**: TOPP
 
 ## 🧩 Core Modules
